@@ -1,5 +1,5 @@
 <h1 align="center">😉 Hey! Nice to see you.</h1>
-<h3 align="center" href="mailto:abheet200900@gmail.com"> Reach me at <a>abheet200900@gmail.com</a>a</h3>
+<h3 align="center" href="mailto:abheet200900@gmail.com"> Reach me at <a href="mailto:abheet200900@gmail.com">abheet200900@gmail.com</a></h3>
 <h3 align="center">I'm Abheet Arora, Software Engineer at Cisco</h3>
 
 [<img align="left" alt="LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />](https://www.linkedin.com/in/abheetarora/)
