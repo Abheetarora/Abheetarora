@@ -5,7 +5,7 @@
 [<img alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="25px">](mailto:abheet200900@gmail.com)
 [<img align="right" alt="Leetcode" width="25px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />](https://leetcode.com/abheetarora/)
 <br>
-<h3 align="center">Reach me at -> mailto:abheet200900@gmail.com</h3>
+
 <br>
 <p align="center">
     <img
