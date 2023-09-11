@@ -1,9 +1,9 @@
 <h1 align="center">😉 Hey! Nice to see you.</h1>
 <h3 align="center">I'm Abheet Arora, Software Engineer at Cisco</h3>
 
-[<img align="left" alt="LinkedIn" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/abheetarora/)
-[<img alt="Gmail" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width="25px">](mailto:abheet200900@gmail.com)
-[<img align="right" alt="Leetcode" width="25px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3629476-3031539.png" />](https://leetcode.com/abheetarora/)
+[<img align="left" alt="LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />](https://www.linkedin.com/in/abheetarora/)
+[<img alt="Gmail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="25px">](mailto:abheet200900@gmail.com)
+[<img align="right" alt="Leetcode" width="25px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" />](https://leetcode.com/abheetarora/)
 <br>
 
 <p align="center">
