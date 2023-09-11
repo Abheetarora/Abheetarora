@@ -3,7 +3,7 @@
 
 [<img align="left" alt="LinkedIn" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/abheetarora/)
 [<img alt="Gmail" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" width="25px">](mailto:abheet200900@gmail.com)
-[<img align="right" alt="Leetcode" width="25px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/leetcode.svg" />](https://leetcode.com/abheetarora/)
+[<img align="right" alt="Leetcode" width="25px" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3629476-3031539.png" />](https://leetcode.com/abheetarora/)
 <br>
 
 <p align="center">
