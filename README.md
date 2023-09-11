@@ -23,6 +23,6 @@
 
 <p align="center"> 
 	<a href="https://github.com/Abheetarora"><img src="https://komarev.com/ghpvc/?username=Abheetarora" alt="Abheetarora"/></a>
-	<a href="https://github.com/Abheetarora?tab=repositories"><img src="https://badges.pufler.dev/repos/ritikramuka" alt="Abheetarora" /> </a>
+	<a href="https://github.com/Abheetarora?tab=repositories"><img src="https://badges.pufler.dev/repos/abheetarora" alt="Abheetarora" /> </a>
 	<img src="https://img.shields.io/github/stars/Abheetarora?label=Stars" alt="Total Stars">
 </p>
